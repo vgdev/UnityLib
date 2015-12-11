@@ -4,8 +4,8 @@
 *   
 *   Summary:  
 *       This is a simple AudioSource wrapper that allows automatic looping and easy handling of intros to songs.
-*       It also easily facilitates the storage and playback of sound effects.  Also when set up properly 
-*       it allows all music and sound effects to be played at the same relative volumes allowing for more easy audio balancing.
+*       It also easily facilitates the storage and playback of sound effects.  Also when set up properly, 
+*       it allows all music and sound effects to be played at the same relative volumes which allows for more easy audio balancing.
 *
 *   Example use:
 *       // Player hits shoot button

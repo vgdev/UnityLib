@@ -3,8 +3,8 @@
 *   Originally used in:  https://github.com/JonathanHunter/CardNinjas
 *   
 *   Summary:  
-*       Universal naivagtion class allowing the fir=ing of unity UI navigation events from a C# script.
-*       This allows you to easily have you menus navigable by keyboard/controller and mouse.
+*       Universal naivagtion class allowing the firing of unity UI navigation events from a C# script.
+*       This allows you to easily have your menus navigable by keyboard/controller and mouse.
 *
 *   Example use:
 *       // Player hits left

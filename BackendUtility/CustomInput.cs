@@ -4,8 +4,8 @@
 *   
 *   Summary:  
 *       This is an input wrapper for Unity and is meant to be used with the InputManager provided in the same directory.
-*       This file wraps both keyboard and gamepad inputs behind a single set of outputs.  It also makes the inputs completly rebindable at runtime.
-*       Up to 6 indepent sets of player inputs are supported along with a general all players input.  All bindings are stored in a xml file, so
+*       This file enables you to see both keyboard and gamepad inputs as a single set.  It also makes the inputs completly rebindable at runtime.
+*       This file supports up to 6 independent sets of player inputs as well as a general all players input.  All bindings are stored in a xml file, so
 *       they are saved even if the game is closed.
 *
 *   Example use:
