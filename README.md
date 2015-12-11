@@ -2,7 +2,7 @@
 
 ![alt text](VGDevLogo.png)
 
-This repository holds all of the various independent files VGDev has written while developing games.
+This Repository holds various independent files VGDev has written while developing games.
 Visit http://www.vgdev.org/ to see the games they were used in!
 
 ## Table of Contents:
