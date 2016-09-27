@@ -18,3 +18,7 @@ Visit http://www.vgdev.org/ to see the games they were used in!
 
 ### UI:
 	Contains scripts that interact with Unity's UI system.
+
+### Controller Wrapper:
+	Allows for generic controller support and multiplayer input
+	Make sure you add the "InputManager.asset" file under ProjectSettings folder of your project!
